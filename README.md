@@ -7,7 +7,7 @@ These are the KiCad files for a simple sensor evaluation board. It features an S
 
 ## Pictures
 
-<img src="images/picture.jpeg" alt="Screenshot" width="600"/>
+<img src="images/picture.JPEG" alt="Screenshot" width="600"/>
 
 PCB after SMD soldering.
 
